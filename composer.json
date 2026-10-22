@@ -1,0 +1,41 @@
+{
+  "name": "cengizkemec/passkeys",
+  "description": "Passkey (WebAuthn/FIDO2) authentication for Flarum 2.0",
+  "type": "flarum-extension",
+  "keywords": ["flarum", "extension", "webauthn", "passkey", "fido2"],
+  "license": "MIT",
+  "homepage": "https://github.com/cengizkemec/flarum-passkeys",
+  "support": {
+    "issues": "https://github.com/cengizkemec/flarum-passkeys/issues",
+    "source": "https://github.com/cengizkemec/flarum-passkeys"
+  },
+  "authors": [
+    {
+      "name": "Cengiz Kemeç",
+      "email": "106630767+cengizkemec@users.noreply.github.com"
+    }
+  ],
+  "require": {
+    "flarum/core": "^2.0.0",
+    "web-auth/webauthn-lib": "^5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "CengizKemec\\Passkeys\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Passkeys",
+      "category": "feature",
+      "icon": {
+        "name": "fas fa-key",
+        "backgroundColor": "#4f46e5",
+        "color": "#fff"
+      }
+    },
+    "extiverse": {
+      "discuss": ""
+    }
+  }
+}

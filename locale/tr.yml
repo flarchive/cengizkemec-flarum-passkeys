@@ -1,0 +1,25 @@
+cengizkemec-passkeys:
+  admin:
+    settings:
+      enable_label: Passkey'leri Etkinleştir
+      rp_id_label: Güvenilen Taraf Kimliği (RP ID)
+      rp_id_help: Geçerli alan adını kullanmak için boş bırakın. Kaynak adresin (origin) kayıtlı alan adı son eki olmalıdır (örn. example.com).
+      rp_name_label: Uygulama Adı
+      rp_name_help: Passkey oluşturulurken tarayıcıda gösterilen ad.
+      origin_label: Kaynak Adres (Origin)
+      origin_help: Şema dahil tam adres (örn. https://example.com). Geçerli istek adresini kullanmak için boş bırakın.
+  forum:
+    log_in:
+      with_passkey: Passkey ile giriş yap
+      passkey_error: Passkey ile giriş başarısız oldu. Lütfen tekrar deneyin.
+    settings:
+      passkeys_heading: Passkey'ler
+      add_passkey: Passkey ekle
+      no_passkeys: Henüz kayıtlı bir passkey'iniz yok.
+      unnamed_device: İsimsiz cihaz
+      device_name_prompt: Bu passkey'e bir ad verin (örn. "İş bilgisayarı").
+      delete: Kaldır
+      delete_confirm: Bu passkey kaldırılsın mı? Artık giriş yapmak için kullanamayacaksınız.
+      added: Passkey başarıyla eklendi.
+      deleted: Passkey kaldırıldı.
+      error: Bir hata oluştu. Lütfen tekrar deneyin.

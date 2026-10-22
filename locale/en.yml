@@ -1,0 +1,25 @@
+cengizkemec-passkeys:
+  admin:
+    settings:
+      enable_label: Enable Passkeys
+      rp_id_label: Relying Party ID (RP ID)
+      rp_id_help: Leave empty to use the current domain. This must be the registrable domain suffix of the origin (for example example.com).
+      rp_name_label: Relying Party Name
+      rp_name_help: The name shown by the browser while a passkey is created.
+      origin_label: Origin
+      origin_help: Full origin including scheme (for example https://example.com). Leave empty to use the current request origin.
+  forum:
+    log_in:
+      with_passkey: Sign in with a passkey
+      passkey_error: Passkey sign-in failed. Please try again.
+    settings:
+      passkeys_heading: Passkeys
+      add_passkey: Add passkey
+      no_passkeys: You have not registered any passkeys yet.
+      unnamed_device: Unnamed device
+      device_name_prompt: Give this passkey a name (for example "Work laptop").
+      delete: Remove
+      delete_confirm: Remove this passkey? You will no longer be able to use it to sign in.
+      added: Passkey added successfully.
+      deleted: Passkey removed.
+      error: Something went wrong. Please try again.
