@@ -2,15 +2,13 @@
 
 > **Read-only archive of released versions of cengizkemec/passkeys.** Not for installation: use [Packagist](https://packagist.org/packages/cengizkemec/passkeys) or the [upstream repository](https://github.com/cengizkemec/flarum-passkeys).
 
-**3** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/cengizkemec-flarum-passkeys/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^2.0.0`
+**0** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/cengizkemec-flarum-passkeys/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v0.1.0` | 2026-10-22 | `^2.0.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-passkeys/tree/archive/v0.1.0) |
-| `v1.0.0` | 2026-10-22 | `^2.0.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-passkeys/tree/archive/v1.0.0) |
-| `v1.1.0` | 2026-10-23 | `^2.0.0` | [Browse](https://github.com/flarchive/cengizkemec-flarum-passkeys/tree/archive/v1.1.0) |
+| — | — | — | — |
 
 Catalog entry: [packages/cengizkemec-flarum-passkeys.json](https://github.com/flarchive/archive-index/blob/main/packages/cengizkemec-flarum-passkeys.json)
 
